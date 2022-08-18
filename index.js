@@ -11,3 +11,11 @@ function writeCards(names,event){
         `Thank you, ${names[2]}, for the wonderful surprise gift!`];
     return returnValue;
 };
+let n=10
+function countDown(number){
+    let n=10;
+    while(n>=0){
+        console.log(n--);}
+        
+        return number;
+    }
